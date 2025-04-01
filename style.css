@@ -1,0 +1,52 @@
+body {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin: 0;
+}
+
+h1 {
+    font-family: "Comic Sans MS", "Brush Script MT", cursive;
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    font-size: 35px;
+    font-family: "Comic Sans MS", "Brush Script MT", cursive;
+    color: red;
+    text-align: center;
+    margin-top: 20px;
+}
+
+ul {
+    font-family: "Comic Sans MS", "Brush Script MT", cursive;
+    font-size: 24px;
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+}
+
+ul li {
+    background-color: white;
+    margin: 10px auto;
+    padding: 10px;
+    width: fit-content;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+p {
+    font-family: "Comic Sans MS", "Brush Script MT", cursive;
+    font-size: 18px;
+    text-align: justify;
+    max-width: 800px;
+    margin: 20px auto;
+    line-height: 1.6;
+}
+
+.image {
+    text-align: center;
+    margin: 20px 0;
+}
